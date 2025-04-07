@@ -17,11 +17,11 @@ You will be making a valuable contribution to our understanding of how music is 
 There are no foreseeable risks involved in participating in this study. This experiment requires you to listen sounds from your audio device. Make sure you adjust volume to avoid any discomfort. Before the experiment there will be a sound level test to check your audio is at a comfortable level. 
 
 ## What if something goes wrong? 
-It is unlikely that anything will go wrong, but if you feel it has, please contact Tuomas Eerola <a href="mailto:tuomas.eerola@durham.ac.uk">tuomas.eerola@durham.ac.uk</A>.
+It is unlikely that anything will go wrong, but if you feel it has, please contact either Tuomas Eerola at Durham University <a href="mailto:tuomas.eerola@durham.ac.uk">tuomas.eerola@durham.ac.uk</A> or Dennis Hamm at Sentisonics <a href="mailto:dennis@sentisonics.com">dennis@sentisonics.com</A>.
 
 ## What if I change my mind during the study or after the study is complete?
 
-You can stop at any point during the study by closing the browser window. If, having completed the study, you change your mind and wish to withdraw your data, simply email the researchers using the email address <a href="mailto:tuomas.eerola@durham.ac.uk">tuomas.eerola@durham.ac.uk</A>. All data provided will be anonymised, they will not be available to anyone outside the researchers listed above and cannot be traced back to your identity. All data published will be entirely anonymous and unidentifiable. The responsibility for this survey rests entirely with the researchers listed above. 
+You can stop at any point during the study by closing the browser window. If, having completed the study, you change your mind and wish to withdraw your data, simply email the researchers using the email address <a href="mailto:tuomas.eerola@durham.ac.uk">tuomas.eerola@durham.ac.uk</A> or Dennis Hamm at Sentisonics <a href="mailto:dennis@sentisonics.com">dennis@sentisonics.com</A>. All data provided will be anonymised, they will not be available to anyone outside the researchers listed above and cannot be traced back to your identity. All data published will be entirely anonymous and unidentifiable. The responsibility for this survey rests entirely with the researchers listed above. 
 
 ## Data Protection Information 
 No personal data will be shared. Anonymised (i.e. not identifiable) data may be used in publications, reports, presentations, and other research outputs. All anonymised research data and records needed to validate the research findings will be stored for 10 years after the publication of the results, as 10 years is the standard under Durham University’s data management policy.
